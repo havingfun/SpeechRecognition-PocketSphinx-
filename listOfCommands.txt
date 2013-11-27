@@ -1,0 +1,30 @@
+First build of the listening Robo.
+It will do nothing but just show you what the robo has listened. It can also synthesize the text in text box 
+with default voice.
+
+List of Commands that you can try-
+
+1. Set [an] alarm of <time>.
+2. Move <number> of steps to (front | back | right | left)
+3. Gesture Recognition Mode.
+4. Lets have a chat.
+5. Listen to Commands.
+6. Exit the Program.
+7. (Hello | Good Morning | Good evening etc) (prashant | saurabh | rajesh | niranjan | ritu maam)
+8. register (me | him | her | them)
+9. recognize me
+10. identify prashant
+11. (pick | push | pull) (pen |ball | prashant)
+12. move [(right | left)] (limb | palm | neck | shoulder) to (up | down | left | right)
+13. what is the (day | date | time | year)
+14. Who is your creator.
+
+[] - Optional
+| - Any one from the lists
+
+
+Try Some of the commands.
+Hope the accuracy is acceptable.
+And Please Suggest other commands to be added.
+
+ 
